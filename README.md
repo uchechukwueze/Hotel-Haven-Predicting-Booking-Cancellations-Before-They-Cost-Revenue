@@ -680,7 +680,7 @@ This is not only a data-analysis project. It is a practical decision-support sys
 
 Data Scientist | Data Analyst | Economics and Business Analytics
 
-- GitHub: [@ueze241](https://github.com/uchechukwu.nca@gmail.com)
+- GitHub: [@uchechukwu.nca@gmail.com](https://github.com/uchechukwu.nca@gmail.com)
 - Project focus: Machine learning, predictive analytics, economic analysis and business intelligence
 
 ---
