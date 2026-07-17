@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 <div align="center">
+=======
+# Hotel-Haven-Predicting-Booking-Cancellations-Before-They-Cost-Revenue
+The project presents the project as an end-to-end business analytics and machine-learning solution, rather than simply a collection of charts.
+>>>>>>> b5cac38c1c1f787ae3f9b1f9a271e279a9b88f09
 
 # 🏨 Hotel Haven
 ## Predicting Booking Cancellations Before They Cost Revenue
@@ -679,7 +684,11 @@ This is not only a data-analysis project. It is a practical decision-support sys
 
 Data Scientist | Data Analyst | Economics and Business Analytics
 
+<<<<<<< HEAD
 - GitHub: [@ueze241](https://github.com/ueze241)
+=======
+- GitHub: [@ueze241](https://github.com/uchechukwu.nca@gmail.com)
+>>>>>>> b5cac38c1c1f787ae3f9b1f9a271e279a9b88f09
 - Project focus: Machine learning, predictive analytics, economic analysis and business intelligence
 
 ---
