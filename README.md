@@ -585,7 +585,7 @@ streamlit run hotel_predictor.py
 Streamlit will display a local address similar to:
 
 ```text
-http://localhost:8501
+https://hotelhaven.streamlit.app/
 ```
 
 Open the address in your browser.
